@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\omarg\OneDrive\Desktop\FOV\src\main.cpp(8,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\FOV\src\main.cpp(15,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\FOV\src\main.cpp(24,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\FOV\src\main.cpp(29,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\FOV\src\main.cpp(93,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  sfml_tasks.vcxproj -> C:\Users\omarg\OneDrive\Desktop\FOV\bin\Debug\sfml_tasks.exe
